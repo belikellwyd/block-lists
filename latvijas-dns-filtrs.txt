@@ -3,7 +3,7 @@
 ! Last update: 11.03.2026
 !
 ! In case of false blocking, please write to Issues:
-! * GitHub issues: https://github.com/astkhq/latvijas-dns-filtrs/issues
+! * GitHub issues: https://github.com/belikellwyd/block-lists
 !
 
 ||hits.ss.com^
