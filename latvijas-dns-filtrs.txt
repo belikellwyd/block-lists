@@ -1,0 +1,23 @@
+! Title: LV DNS Block List
+! Homepage: https://github.com/belikellwyd/block-lists
+! Last update: 11.03.2026
+!
+! In case of false blocking, please write to Issues:
+! * GitHub issues: https://github.com/astkhq/latvijas-dns-filtrs/issues
+!
+
+||hits.ss.com^
+||b.adbox.lv^
+||multisistema.lv^
+||h.itvnet.lv^
+||af1.delphi.lv^
+||s0.2mdn.net^
+||adclick.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||s1.adform.net^
+||track.adform.net^
+||adform.net^
+||prd.jwpltx.com^
+||ping-meta-prd.jwpltx.com^
